@@ -1,5 +1,3 @@
-Certainly! If you are implementing the Student Database Management System in C++, you can modify the README accordingly. Here's a modified version:
-
 # Student Database Management System - C++
 
 ## Introduction

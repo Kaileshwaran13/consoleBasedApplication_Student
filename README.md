@@ -15,7 +15,7 @@ The Student Database Management System contains the following attributes for eac
 - **Student Name:** Full name of the student.
 - **Student ID:** Unique identification number assigned to each student.
 - **Department:** Academic department to which the student belongs.
-- **Class:** Current class enrolled by the student.
+- **Section:** Current class enrolled by the student.
 - **Batch:** Batch year of admission.
 - **Phone Number:** Contact number of the student.
 - **Address (City):** Residential city of the student.
@@ -30,7 +30,7 @@ To add a new student record, use the `create` operation by providing the necessa
 
 ```cpp
 // Example
-create_student(name, student_id, dept, class, batch, phone_number, address, dayscholar, cgpa, arrear);
+create_student(name, student_id, dept, section, batch, phone_number, address, dayscholar, cgpa, arrear);
 ```
 
 ### 2. Read

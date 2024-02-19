@@ -8,7 +8,7 @@ The Student Database Management System is a simple and efficient solution for ma
 - **Read:** Retrieve and view existing student information.
 - **Update:** Modify and update student details as needed.
 - **Delete:** Remove student records from the database.
-- **Transaction:** Record and manage student transactions, including fee payments.
+- **Transaction:** Record and manage student transactions, including fee payments, etc.
 
 ## Database Schema
 The Student Database Management System contains the following attributes for each student:

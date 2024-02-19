@@ -1,6 +1,6 @@
 Certainly! If you are implementing the Student Database Management System in C++, you can modify the README accordingly. Here's a modified version:
 
-# Student Database Management System (SDMS) - C++
+# Student Database Management System - C++
 
 ## Introduction
 The Student Database Management System (SDMS) is a simple and efficient solution for managing student information in an educational institution. This system provides basic CRUD (Create, Read, Update, Delete) operations to handle student records effectively using C++.

@@ -1,7 +1,7 @@
 # Student Database Management System - C++
 
 ## Introduction
-The Student Database Management System (SDMS) is a simple and efficient solution for managing student information in an educational institution. This system provides basic CRUD (Create, Read, Update, Delete) operations to handle student records effectively using C++.
+The Student Database Management System is a simple and efficient solution for managing student information in an educational institution. This system provides basic CRUD (Create, Read, Update, Delete) operations to handle student records effectively using C++.
 
 ## Features
 - **Create:** Add new student records with comprehensive details.
@@ -10,7 +10,7 @@ The Student Database Management System (SDMS) is a simple and efficient solution
 - **Delete:** Remove student records from the database.
 
 ## Database Schema
-The SDMS contains the following attributes for each student:
+The Student Database Management System contains the following attributes for each student:
 
 - **Student Name:** Full name of the student.
 - **Student ID:** Unique identification number assigned to each student.

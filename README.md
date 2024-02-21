@@ -8,7 +8,6 @@ The Student Database Management System is a simple and efficient solution for ma
 - **Read:** Retrieve and view existing student information.
 - **Update:** Modify and update student details as needed.
 - **Delete:** Remove student records from the database.
-- **Transaction:** Record and manage student transactions, including fee payments, etc.
 
 ## Database Schema
 The Student Database Management System contains the following attributes for each student:
@@ -58,10 +57,3 @@ Remove a student record using the `delete` operation. Provide the student ID to 
 delete_student(student_id);
 ```
 
-### 5. Transaction
-Manage student transactions using the `transaction` operation. This can include fee payments, library transactions, etc.
-
-```cpp
-// Example
-record_transaction(student_id, transaction_type, amount, details);
-```
